@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b844a7b-2ca0-4b77-8578-ef06950a8c79" alt="Unifacisa Aulas" width="400" />
+  <img src="https://github.com/user-attachments/assets/b60af7e5-9385-48b7-83ab-9629d68ce903" alt="Unifacisa Aulas" width="400" />
 </p>
 
 # 📢Projeto 1 - TechStore
